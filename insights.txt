@@ -1,0 +1,18 @@
+Customer Churn Insights
+
+1. Customers with longer tenure generate higher total charges, showing long-term value.
+
+2. Monthly charges have a strong positive relationship with total charges.
+
+3. Customers with higher monthly charges are more likely to churn.
+
+4. Customers on month-to-month contracts show higher churn compared to long-term contracts.
+
+5. Payment methods such as electronic check are associated with higher churn rates.
+
+6. Senior citizens tend to churn slightly more than younger customers.
+
+7. Paperless billing users show slightly higher churn behavior.
+
+Conclusion:
+Customer retention strategies should focus on high-paying customers, especially those with short-term contracts.
